@@ -1,9 +1,16 @@
 # serial-proxy
 
-pull websocket events
+need latest node if possible; use nvm and get v9.2.0
 
-push serial events
+```
+npm instal
+node index.js
 
-that's it lol
+node index.js test
+
+node index.js test without
+```
+
+see top of file for details
 
 https://docs.google.com/document/d/1JItQcpwWejTq6WnsReT8WptiZ3xlhwmICKHFtv9wsWk/edit#
